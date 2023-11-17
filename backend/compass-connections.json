@@ -1,0 +1,26 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "f851d070-ec8d-448a-aeab-3e02c6d5abe5",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1700241944076"
+        }
+      },
+      "favorite": {
+        "name": "yonni-library-v1",
+        "color": "color8"
+      },
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/yonni-library-v1",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
